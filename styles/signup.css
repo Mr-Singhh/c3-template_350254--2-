@@ -1,0 +1,44 @@
+#navbar {
+    width: 99%;
+    height: 60px;
+    border: 1px solid red;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+}
+
+a {
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: bolder;
+    padding-right: 20px;
+    padding-left: 20px;
+    color: white;
+}
+
+#form {
+    width: 15%;
+    height: 300px;
+    border: 1px solid red;
+    border-radius: 20px;
+    margin: auto;
+    text-align: center;
+    margin-top: 20px;
+}
+
+#email {
+    padding: 10px;
+}
+
+#password {
+    padding: 10px;
+}
+
+#log_in {
+    padding: 5px 30px 5px 30px;
+}
+
+#name {
+    padding: 10px;
+}
